@@ -1,4 +1,4 @@
-# Automation-Projects
+
 # Automation Projects
 
 ![Project Banner](project_banner.png)
