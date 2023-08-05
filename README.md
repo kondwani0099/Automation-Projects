@@ -1,7 +1,7 @@
 
 # Automation Projects
 
-![Project Banner](Media%20hand%20gesture%20arduino%20control/project_images%20(1).jpeg))
+![Project Banner](tech%20with%20kondwani.png)
 
 Automation Projects is a collection of smart applications that leverage Arduino, AI, computer vision, and natural language models to automate different parts of our lives. The project incorporates voice recognition and gesture control to control LEDs, relay switches, and servo motors using Python, MediaPipe, and Arduino.
 
